@@ -1,0 +1,17 @@
+.lista{
+    padding: 1vw 5vw;
+    font-family: 'Archivo', sans-serif;
+    color: #D9D9D9;
+}
+
+b{
+    font-size: 28px;
+    color: #C3A400;
+}
+
+.categoria{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
