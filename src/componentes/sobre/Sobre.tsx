@@ -1,7 +1,9 @@
+import Cabecalho from '../cabecalho/Cabecalho'
 import './sobre.css'
 function Sobre(){
     return(
         <div className="conteudo">
+            <Cabecalho/>
                 <h2 className="titulo">Sobre</h2>
                 <p className="texto">Desde esse (des)governo federal (2019),
                  a população de rua aumentou consideravelmente, estima-se que só em Belo Horizonte

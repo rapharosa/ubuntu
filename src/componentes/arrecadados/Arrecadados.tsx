@@ -1,7 +1,9 @@
+import Cabecalho from '../cabecalho/Cabecalho'
 import './arrecadados.css'
 function Arrecadados(){
     return(
         <div className="lista">
+            <Cabecalho/>
             <h1>Arrecadados</h1>
             <h2>Arrecadamos até agora:</h2>
             <div className='categoria'>

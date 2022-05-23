@@ -1,7 +1,9 @@
+import Cabecalho from '../cabecalho/Cabecalho'
 import './doados.css'
 function Doados(){
     return(
         <div className='lista-doados'>
+            <Cabecalho/>
             <h1>Doados</h1>
             <h2>Doamos até agora:</h2>
             <div className='categoria-doados'>
