@@ -1,5 +1,6 @@
 import Arrecadados from "../arrecadados/Arrecadados";
 import Cabecalho from "../cabecalho/Cabecalho";
+import Doados from "../doados/Doados";
 import Sobre from "../sobre/Sobre";
 import './pagina.css'
 
@@ -9,6 +10,7 @@ function Pagina(){
             <Cabecalho/>
             <Sobre/>
             <Arrecadados/>
+            <Doados/>
         </div>
     )
 }

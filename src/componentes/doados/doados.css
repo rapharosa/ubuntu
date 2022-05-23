@@ -1,7 +1,8 @@
-.lista{
+.lista-doados{
     padding: 1vw 5vw;
     font-family: 'Archivo', sans-serif;
-    color: #D9D9D9;
+    color: #292828;
+    background-color: #D3D3D3;
 }
 
 h1{
@@ -13,7 +14,7 @@ b{
     color: #C3A400;
 }
 
-.categoria{
+.categoria-doados{
     display: flex;
     justify-content: space-between;
     align-items: center;
