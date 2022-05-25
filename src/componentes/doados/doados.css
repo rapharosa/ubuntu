@@ -1,13 +1,30 @@
 
 .lista-doados{
-    padding: 1vw 5vw;
     font-family: 'Archivo', sans-serif;
+}
+
+.lista-dados-container {
+    padding: 1vw 0;
+    width: 100%;
     color: #292828;
-    background-color: #D3D3D3;
+    background-color: #292828;
+    background-image: url(../../assets/logo/ubuntu-logo-branco.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
 }
 
 h1{
     color: #C3A400;
+    padding: 0 5vw;
+}
+h2{
+    padding: 0 5vw;
+    color: #D9D9D9;
+}
+
+p{
+    color: #D9D9D9;
 }
 
 b{
@@ -15,9 +32,38 @@ b{
     color: #C3A400;
 }
 
-.categoria-doados{
+.container-doados{
     display: flex;
-    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: initial;
+    gap: 2vw;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0 3vw 6vw 3vw;
+    text-shadow: 1px 1px 1px black;
+}
+
+.categoria-doados{
+    border-radius: 10px;
+    padding: 0 5vw 5vw 5vw;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+}
+
+.categoria-doados div {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
     align-items: center;
-    
+    gap: 2vw;
+}
+
+@media screen and (min-width: 768px) {
+    .categoria-doados{
+        width: 35%;
+        padding: 5px 5px 5px 10px;
+    }
 }
