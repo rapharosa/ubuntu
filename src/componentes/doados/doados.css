@@ -1,9 +1,9 @@
 
-.lista-doados{
+.lista{
     font-family: 'Archivo', sans-serif;
 }
 
-.lista-dados-container {
+.lista-container {
     padding: 1vw 0;
     width: 100%;
     color: #292828;
@@ -28,11 +28,12 @@ p{
 }
 
 b{
-    font-size: 28px;
+    font-weight: 800;
+    font-size: 25px;
     color: #C3A400;
 }
 
-.container-doados{
+.lista-doados{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -45,25 +46,25 @@ b{
     text-shadow: 1px 1px 1px black;
 }
 
-.categoria-doados{
+.categoria{
     border-radius: 10px;
-    padding: 0 5vw 5vw 5vw;
+    padding: 2vw 3vw 2vw 3vw;
     width: 100%;
     background: rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(10px);
 }
 
-.categoria-doados div {
+.categoria div {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
-    align-items: center;
+    align-items: baseline;
     gap: 2vw;
 }
 
 @media screen and (min-width: 768px) {
-    .categoria-doados{
+    .categoria{
         width: 35%;
-        padding: 5px 5px 5px 10px;
+        padding: 10px 20px 10px 20px;
     }
 }

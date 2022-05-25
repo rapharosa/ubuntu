@@ -1,33 +1,43 @@
 import Cabecalho from '../cabecalho/Cabecalho'
-import './arrecadados.css'
+import '../doados/doados.css'
 function Arrecadados(){
     return(
         <div className="lista">
             <Cabecalho/>
-            <h1>Arrecadados</h1>
-            <h2>Arrecadamos até agora:</h2>
-            <div className='categoria'>
-                <p><strong>Cobertores:</strong></p><b> 6</b>
-            </div>
-            <div className='categoria'>
-                <p><strong>Masculino</strong></p>
-                <p>Blusas de frio:</p><b> 4</b>
-                <p>Calças:</p><b> 2</b>
-            </div>
-            <div className='categoria'>
-                <p><strong>Feminino</strong></p>
-                <p>Blusas de frio:</p><b> 12</b>
-                <p>Calças:</p><b> 1</b>
-            </div>
-            <div className='categoria'>
-                <p><strong>Infantil</strong></p>
-                <p>Blusas de frio:</p><b> 9</b>
-                <p>Calças:</p><b> 6</b>
-            </div>
-            <div className='categoria'>
-                <p><strong>Valor em Dinheiro</strong></p>
-                <b>R$ 0,00</b>
+            <div className='lista-container'>
+                <h1>Arrecadados</h1>
+                <h2>Arrecadamos até agora:</h2>
+                <div className='lista-doados'>
+                    <div className='categoria'>
+                        <p><strong>Cobertores:</strong></p><b> 6</b>
+                    </div>
+                    <div className='categoria'>
+                        <p><strong>Masculino</strong></p>
+                        <div>
+                            <p>Blusas de frio:</p><b> 4</b>
+                            <p>Calças:</p><b> 2</b>
+                        </div>
+                    </div>
+                    <div className='categoria'>
+                        <p><strong>Feminino</strong></p>
+                        <div>
+                            <p>Blusas de frio:</p><b> 12</b>
+                            <p>Calças:</p><b> 1</b>
+                        </div>
+                    </div>
+                    <div className='categoria'>
+                        <p><strong>Infantil</strong></p>
+                        <div>
+                            <p>Blusas de frio:</p><b> 9</b>
+                            <p>Calças:</p><b> 6</b>
+                        </div>
+                    </div>
+                    <div className='categoria'>
+                        <p><strong>Valor em Dinheiro</strong></p>
+                        <b>R$ 0,00</b>
+                    </div>
                 </div>
+            </div>
         </div>
     )
 }
