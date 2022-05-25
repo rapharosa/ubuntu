@@ -1,10 +1,12 @@
 import Cabecalho from '../cabecalho/Cabecalho'
+import Footer from '../footer/Footer'
 import './sobre.css'
 function Sobre(){
     return(
         <div className="conteudo">
             <Cabecalho/>
-                <h2 className="titulo">Sobre</h2>
+            <div>
+                <h1 className="titulo">Sobre</h1>
                 <p className="texto">Desde esse (des)governo federal (2019),
                  a população de rua aumentou consideravelmente. Estima-se que só em Belo Horizonte
                  são aproximadamente 9 mil pessoas em situação de rua (levantamento feito pela UFMG).
@@ -27,6 +29,8 @@ function Sobre(){
                  atualização desta pagina, etc.
                  <p className="texto-destaque">Conto com sua ajuda!</p>
                  </p>
+            </div>
+                 <Footer/>
             </div>
     )
 }

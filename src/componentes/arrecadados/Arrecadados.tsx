@@ -1,5 +1,6 @@
 import Cabecalho from '../cabecalho/Cabecalho'
 import '../doados/doados.css'
+import Footer from '../footer/Footer'
 function Arrecadados(){
     return(
         <div className="lista">
@@ -38,6 +39,7 @@ function Arrecadados(){
                     </div>
                 </div>
             </div>
+            <Footer/>
         </div>
     )
 }

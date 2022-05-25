@@ -4,8 +4,7 @@ import './cabecalho.css'
 
 function Cabecalho(){
     return(
-        <header className="cabecalho">
-                
+        <header className="cabecalho"> 
                 <Link to="/"><Logo/></Link>
                 <Link className="link" to={"/sobre"}>Sobre</Link>
                 <Link className="link" to={"/arrecadados"}>Arrecadados</Link>
