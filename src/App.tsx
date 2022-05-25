@@ -1,11 +1,9 @@
-import Pagina from "./componentes/pagina/Pagina";
-import ReactDOM from "react-dom/client";
 import { BrowserRouter } from "react-router-dom";
 import { AppRoutes } from "./routes";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/ubuntu">
       <div className="App">
         <AppRoutes/>
       </div>

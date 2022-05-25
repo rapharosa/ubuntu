@@ -1,11 +1,12 @@
 .cabecalho{
-    padding: 3vw 0;
+    padding: 2vw 0;
     display: flex;
     justify-content: space-around;
     background-color: #D9D9D9;
 }
 
 .link{
+    font-size: 14px;
     text-decoration: none;
     color: #1E1E1E;
     font-family: 'Archivo', sans-serif;
