@@ -13,7 +13,7 @@ function Pagina(){
                     <img className='logo-pagina' src={logo} alt="Logo do projeto Ubuntu" />
                     <div>
                         <h2 className='subtitulo-pagina'>Nos ajude a aquecer as mais pessoas</h2>
-                        <p className='texto-pagina'>Doe agasalhos, cobertores ou faça sua doação pelo PIX</p>
+                        <p className='texto-pagina'>Doe agasalhos, cobertores ou faça sua doação pelo PIX raphaelrodrigues93@gmail.com</p>
                     </div>
                 </div>
                 <div className='container-perguntas'>
