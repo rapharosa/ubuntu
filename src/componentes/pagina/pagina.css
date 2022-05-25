@@ -64,7 +64,7 @@
         display: none;
     }
     .container-pagina{
-        height: 80vh;
+        height: 60vh;
     }
     .logo-pagina{
         width: 50%;
@@ -84,6 +84,7 @@
         background-position: center;
         padding: 0 3vw;
         text-shadow: 1px 1px 1px black;
+        padding-bottom: 3vw;
     }
 
     .container-pagina-2{
