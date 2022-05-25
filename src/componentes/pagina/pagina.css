@@ -11,7 +11,6 @@
 
 .logo-pagina{
     width: 40%;
-    margin-right: 5vw;
 }
 
 .subtitulo-pagina{
@@ -23,7 +22,8 @@
 }
 
 .texto-pagina{
-    font-size: 16px;
+    padding-left: 2vw;
+    font-size: 15px;
     font-family: 'Archivo', sans-serif;
     color: #C3A400;
     font-weight: 100;
@@ -63,17 +63,16 @@
     .titulo-pagina{
         display: none;
     }
-    .container-pagina{
-        height: 60vh;
-    }
     .logo-pagina{
         width: 50%;
     }
     .subtitulo-pagina{
-        font-size: 5vw;
+        font-size: 50px;
+        text-align: center;
     }
     .texto-pagina{
-        font-size: 4vw;
+        font-size: 46px;
+        text-align: center;
     }
     .container-perguntas{
         display: flex;

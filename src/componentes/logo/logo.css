@@ -2,3 +2,10 @@
     width: 61px;
     height: 17px;
 }
+
+@media screen and (min-width: 768px){
+    .imagem{
+        width: 100px;
+        height: 26px;
+    }
+}
