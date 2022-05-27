@@ -11,9 +11,11 @@ function Pagina(){
             <div>
                 <div className='container-pagina'>
                     <img className='logo-pagina' src={logo} alt="Logo do projeto Ubuntu" />
-                    <div>
+                    <div className='escrito-pagina'>
                         <h2 className='subtitulo-pagina'>Nos ajude a aquecer as mais pessoas</h2>
-                        <p className='texto-pagina'>Doe agasalhos, cobertores ou faça sua doação pelo PIX raphaelrodrigues93@gmail.com</p>
+                        <p className='texto-pagina'>Doe agasalhos, cobertores ou faça sua doação
+                         pelo PIX <strong className='destaque-pagina'>raphaelrodrigues93@gmail.com</strong>
+                        </p>
                     </div>
                 </div>
                 <div className='container-perguntas'>
@@ -25,12 +27,12 @@ function Pagina(){
                     </div>
                     <div className='container-pagina-2'>
                         <p className='pergunta'>Não sou de BH, quero ajudar financeiramente, como faço?</p>
-                        <p className='resposta'>Entre em contato comigo pelo WhatsApp 31-991791585</p>
+                        <p className='resposta'>Pode fazer o pix para raphaelrodrigues93@gmail.com</p>
                     </div>
                     <div className='container-pagina-2'>
                         <p className='pergunta'>Estou perto de BH, onde posso deixar as doações?</p>
                         <p className='resposta'>Entre em contato comigo pelo WhatsApp 31-991791585, para combinarmos o dia e 
-                        o local de entrega da sua doação!
+                        o local de entrega das doações!
                         </p>
                     </div>
                 </div>
