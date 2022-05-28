@@ -22,8 +22,8 @@ function Arrecadados(){
                     <div className='categoria'>
                         <p className='texto-secao'><strong>Feminino</strong></p>
                         <div>
-                            <p className='texto-secao'>Blusas de frio:</p><b> 30</b>
-                            <p className='texto-secao'>Calças:</p><b> 5</b>
+                            <p className='texto-secao'>Blusas de frio:</p><b> 32</b>
+                            <p className='texto-secao'>Calças:</p><b> 6</b>
                         </div>
                     </div>
                     <div className='categoria'>
