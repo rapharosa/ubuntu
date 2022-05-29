@@ -10,7 +10,7 @@ function Arrecadados(){
                 <h2 className='subtitulo-secao'>Arrecadamos até agora:</h2>
                 <div className='lista-doados'>
                     <div className='categoria'>
-                        <p className='texto-secao'><strong>Cobertores:</strong></p><b>9</b>
+                        <p className='texto-secao'><strong>Cobertores:</strong></p><b>11</b>
                     </div>
                     <div className='categoria'>
                         <p className='texto-secao'><strong>Masculino</strong></p>
@@ -29,8 +29,8 @@ function Arrecadados(){
                     <div className='categoria'>
                         <p className='texto-secao'><strong>Infantil</strong></p>
                         <div>
-                            <p className='texto-secao'>Blusas de frio:</p><b> 9</b>
-                            <p className='texto-secao'>Calças:</p><b> 6</b>
+                            <p className='texto-secao'>Blusas de frio:</p><b> 12</b>
+                            <p className='texto-secao'>Calças:</p><b> 10</b>
                         </div>
                     </div>
                     <div className='categoria'>
