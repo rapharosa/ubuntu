@@ -10,7 +10,7 @@ function Arrecadados(){
                 <h2 className='subtitulo-secao'>Arrecadamos até agora:</h2>
                 <div className='lista-doados'>
                     <div className='categoria'>
-                        <p className='texto-secao'><strong>Cobertores:</strong></p><b>11</b>
+                        <p className='texto-secao'><strong>Cobertores:</strong></p><b>12</b>
                     </div>
                     <div className='categoria'>
                         <p className='texto-secao'><strong>Masculino</strong></p>
