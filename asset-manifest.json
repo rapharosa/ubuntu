@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ubuntu/static/css/main.909771f1.css",
-    "main.js": "/ubuntu/static/js/main.efc80c27.js",
+    "main.js": "/ubuntu/static/js/main.7c725243.js",
     "static/media/ubuntu-logo-branco.png": "/ubuntu/static/media/ubuntu-logo-branco.884da380fc994c91dcec.png",
     "static/media/ubuntu-logo.png": "/ubuntu/static/media/ubuntu-logo.0b11a1815e322cc48a77.png",
     "index.html": "/ubuntu/index.html",
     "main.909771f1.css.map": "/ubuntu/static/css/main.909771f1.css.map",
-    "main.efc80c27.js.map": "/ubuntu/static/js/main.efc80c27.js.map"
+    "main.7c725243.js.map": "/ubuntu/static/js/main.7c725243.js.map"
   },
   "entrypoints": [
     "static/css/main.909771f1.css",
-    "static/js/main.efc80c27.js"
+    "static/js/main.7c725243.js"
   ]
 }
