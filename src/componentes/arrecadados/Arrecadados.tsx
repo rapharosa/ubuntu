@@ -15,14 +15,14 @@ function Arrecadados(){
                     <div className='categoria'>
                         <p className='texto-secao'><strong>Masculino</strong></p>
                         <div>
-                            <p className='texto-secao'>Blusas de frio:</p><b> 5</b>
+                            <p className='texto-secao'>Blusas de frio:</p><b> 7</b>
                             <p className='texto-secao'>Calças:</p><b> 4</b>
                         </div>
                     </div>
                     <div className='categoria'>
                         <p className='texto-secao'><strong>Feminino</strong></p>
                         <div>
-                            <p className='texto-secao'>Blusas de frio:</p><b> 39</b>
+                            <p className='texto-secao'>Blusas de frio:</p><b> 37</b>
                             <p className='texto-secao'>Calças:</p><b> 6</b>
                         </div>
                     </div>
