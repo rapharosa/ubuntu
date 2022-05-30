@@ -10,27 +10,27 @@ function Doados(){
                 <h2 className='subtitulo-secao'>Doamos até agora:</h2>
                 <div className='lista-doados'>
                     <div className='categoria'>
-                        <p className='texto-secao'><strong>Cobertores:</strong></p><b> 6</b>
+                        <p className='texto-secao'><strong>Cobertores:</strong></p><b> 12</b>
                     </div>
                     <div className='categoria'>
                         <p className='texto-secao'><strong>Masculino</strong></p>
                         <div>
                             <p className='texto-secao'>Blusas de frio:</p><b> 4</b>
-                            <p className='texto-secao'>Calças:</p><b> 2</b>
+                            <p className='texto-secao'>Calças:</p><b> 4</b>
                         </div>
                     </div>
                     <div className='categoria'>
                         <p className='texto-secao'><strong>Feminino</strong></p>
                         <div>
-                            <p className='texto-secao'>Blusas de frio:</p><b> 12</b>
-                            <p className='texto-secao'>Calças:</p><b> 1</b>
+                            <p className='texto-secao'>Blusas de frio:</p><b> 19</b>
+                            <p className='texto-secao'>Calças:</p><b> 2</b>
                         </div>
                     </div>
                     <div className='categoria'>
                         <p className='texto-secao'><strong>Infantil</strong></p>
                         <div>
-                            <p className='texto-secao'>Blusas de frio:</p><b> 1</b>
-                            <p className='texto-secao'>Calças:</p><b> 1</b>
+                            <p className='texto-secao'>Blusas de frio:</p><b> 4</b>
+                            <p className='texto-secao'>Calças:</p><b> 5</b>
                         </div>
                     </div>
                     <div className='categoria'>
