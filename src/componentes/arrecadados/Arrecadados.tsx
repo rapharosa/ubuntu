@@ -15,14 +15,14 @@ function Arrecadados(){
                     <div className='categoria'>
                         <p className='texto-secao'><strong>Masculino</strong></p>
                         <div>
-                            <p className='texto-secao'>Blusas de frio:</p><b> 7</b>
+                            <p className='texto-secao'>Blusas de frio:</p><b> 17</b>
                             <p className='texto-secao'>Calças:</p><b> 4</b>
                         </div>
                     </div>
                     <div className='categoria'>
                         <p className='texto-secao'><strong>Feminino</strong></p>
                         <div>
-                            <p className='texto-secao'>Blusas de frio:</p><b> 37</b>
+                            <p className='texto-secao'>Blusas de frio:</p><b> 40</b>
                             <p className='texto-secao'>Calças:</p><b> 6</b>
                         </div>
                     </div>
@@ -35,7 +35,7 @@ function Arrecadados(){
                     </div>
                     <div className='categoria'>
                         <p className='texto-secao'><strong>Valor em Dinheiro</strong></p>
-                        <b>R$ 300,00</b>
+                        <b>R$ 320,00</b>
                     </div>
                 </div>
             </div>
