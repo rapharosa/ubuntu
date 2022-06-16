@@ -35,7 +35,7 @@ function Arrecadados(){
                     </div>
                     <div className='categoria'>
                         <p className='texto-secao'><strong>Valor em Dinheiro</strong></p>
-                        <b>R$ 320,00</b>
+                        <b>R$ 363,31</b>
                     </div>
                 </div>
             </div>
