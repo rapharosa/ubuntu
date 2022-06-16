@@ -15,15 +15,15 @@ function Doados(){
                     <div className='categoria'>
                         <p className='texto-secao'><strong>Masculino</strong></p>
                         <div>
-                            <p className='texto-secao'>Blusas de frio:</p><b> 4</b>
+                            <p className='texto-secao'>Blusas de frio:</p><b> 16</b>
                             <p className='texto-secao'>Calças:</p><b> 4</b>
                         </div>
                     </div>
                     <div className='categoria'>
                         <p className='texto-secao'><strong>Feminino</strong></p>
                         <div>
-                            <p className='texto-secao'>Blusas de frio:</p><b> 19</b>
-                            <p className='texto-secao'>Calças:</p><b> 2</b>
+                            <p className='texto-secao'>Blusas de frio:</p><b> 31</b>
+                            <p className='texto-secao'>Calças:</p><b> 4</b>
                         </div>
                     </div>
                     <div className='categoria'>
